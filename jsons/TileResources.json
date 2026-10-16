@@ -3,7 +3,7 @@
 "name": "Wood",
 "resourceType": "Strategic",
 "terrainsCanBeFoundOn": ["Forest"],
-"revealedBy": "Agriculture",
-"improvement": "Mining"
+"revealedBy": "Mining",
+"improvement": "Sawmill"
 }
 ]
