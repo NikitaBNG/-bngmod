@@ -4,6 +4,6 @@
 "resourceType": "Strategic",
 "terrainsCanBeFoundOn": ["Forest"],
 "revealedBy": "Mining",
-"improvement": "Sawmill"
+"improvement": "Lumber mill"
 }
 ]
