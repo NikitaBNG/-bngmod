@@ -1,0 +1,9 @@
+[
+{
+"name": "Wood",
+"resourceType": "Strategic",
+"terrainsCanBeFoundOn": ["Forest"],
+"revealedBy": "Agriculture",
+"improvement": "Lumbermill"
+}
+]
