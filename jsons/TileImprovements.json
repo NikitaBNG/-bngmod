@@ -13,7 +13,7 @@
   {
     "name": "Timber extraction",
     "terrainsCanBeBuiltOn": ["Forest"],
-    "techRequired": "",
+    "techRequired": "Woodworking",
     "production": 1,
     "uniques": [
       "Provides [1] [Wood]"
