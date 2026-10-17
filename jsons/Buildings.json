@@ -1,11 +1,11 @@
 [
   {
-  "name": "bread factory",
-  "cost": 50,
-  "Food": 2
-  "requiredTech": "Calendar",
-  "uniques": [
-    "Obsolete with [Construction]"
-  ]
-}
+    "name": "bread factory",
+    "cost": 50,
+    "requiredTech": "Calendar",
+    "uniques": [
+      "[+2 Food]",
+      "Obsolete with [Construction]"
+    ]
+  }
 ]
