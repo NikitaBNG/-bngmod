@@ -6,15 +6,7 @@
     },
     "terrainsCanBeBuiltOn": ["Forest"],
     "uniques": [
-      "Provides [1] [Wood]",
+      "Provides [1] [Wood]"
     ]
   }
 ]
-{
-  "name": "timber extraction",
-  "cost": 40,
-  "requiredTech": "Woodworking",
-  "uniques": [
-    "Obsolete with [Metal structures]"
-  ]
-}
