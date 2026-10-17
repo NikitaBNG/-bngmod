@@ -6,7 +6,7 @@
         ]
     },
     {
-        "name": "Sawmill",
+        "name": "Lumber mill",
         "terrainsCanBeBuiltOn": ["Forest", "Jungle"],
         "uniques": [
             "Provides [1] [Wood]"
