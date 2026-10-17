@@ -6,9 +6,9 @@
 "strength": 14,
 "cost": 75,
 "requiredTech": "Bronze Working",
-"requiredResource": "Wood",
+"requiredResource": "Wood 7",
 "uniques": [
-"+50% Strength <vs [Melee] units>"
+"+50% Strength <vs Melee units>"
 ],
 "obsoleteTech": "Steel"
 }
