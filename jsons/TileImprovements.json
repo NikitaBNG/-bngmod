@@ -1,7 +1,7 @@
 {
   "name": "Lumber mill",
   "_mergeAction": {
-    "action": "UPDATE"
+    "action": "TRY_INJECT"
   },
   "terrainsCanBeBuiltOn": ["Forest"],
   "uniques": [
