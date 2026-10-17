@@ -14,4 +14,20 @@
       }
     ]
   }
+  {
+    "columnNumber": 0,
+    "era": "Antiquity",
+    "techCost": 35,
+    "buildingCost": 60,
+    "wonderCost": 185,
+    "techs": [
+      {
+        "name": "Construction",
+        "row": 9,
+        "cost": 35,
+        "prerequisites": ["Masonry", "The Wheel", "Woodworking"]
+        ]
+      }
+    ]
+  }
 ]
