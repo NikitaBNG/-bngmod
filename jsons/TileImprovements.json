@@ -1,12 +1,13 @@
 [
-  {
-    "name": "Lumber mill",
-    "_mergeAction": {
-      "action": "TRY_INJECT"
-    },
-    "terrainsCanBeBuiltOn": ["Forest"],
-    "uniques": [
-      "Provides [1] [Wood]"
-    ]
-  }
+ {
+"name": "Lumber mill",
+"_mergeAction": {
+"action": "TRY_INJECT"
+},
+"techRequired": "Construction",
+"terrainsCanBeBuiltOn": ["Forest"],
+"uniques": [
+"Provides [1] [Wood]"
+]
+ }
 ]
