@@ -1,11 +1,10 @@
-[
-  {
-    "name": "Lumber mill",
-    "_mergeAction": {
-      "action": "TRY_INJECT"
-    },
-    "uniques": [
-      "Provides [1] [Wood]"
-    ]
-  }
-]
+{
+  "name": "Lumber mill",
+  "_mergeAction": {
+    "action": "UPDATE"
+  },
+  "terrainsCanBeBuiltOn": ["Forest"],
+  "uniques": [
+    "Provides [1] [Wood]"
+  ]
+}
