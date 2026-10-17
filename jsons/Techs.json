@@ -24,7 +24,7 @@
       {
         "name": "Construction",
         "row": 9,
-        "cost": 35,
+        "cost": 105,
         "prerequisites": ["Masonry", "The Wheel", "Woodworking"]
       }
     ]
