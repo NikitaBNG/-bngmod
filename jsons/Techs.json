@@ -26,7 +26,6 @@
         "row": 9,
         "cost": 35,
         "prerequisites": ["Masonry", "The Wheel", "Woodworking"]
-        ]
       }
     ]
   }
