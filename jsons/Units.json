@@ -1,15 +1,11 @@
-[
 {
-"name": "Axeman",
-"unitType": "Melee",
-"movement": 2,
-"strength": 14,
-"cost": 75,
-"requiredTech": "Bronze Working",
-"requiredResource": "Wood 7",
-"uniques": [
-"+50% Strength <vs Melee units>"
-],
-"obsoleteTech": "Steel"
+    "name": "Axeman",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 11,
+    "cost": 60,
+    "resourceRequired": "Wood x7",
+    "uniques": [
+        "[+50]% Strength <vs [Melee] units>"
+    ]
 }
-]
