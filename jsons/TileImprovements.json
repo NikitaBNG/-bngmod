@@ -2,8 +2,8 @@
     {
         "name": "Remove Forest",
         "uniques": [
-            "Instantly gain [11] [Wood] when cleared"
-      ]
+            "Gives [11] [Wood] when cleared"
+        ]
     },
     {
         "name": "Sawmill",
@@ -13,4 +13,4 @@
         ]
     }
 ]
- 
+
