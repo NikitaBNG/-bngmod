@@ -1,15 +1,17 @@
-{
-  "columnNumber": 5,
-  "era": "Ancient era",
-  "techCost": 35,
-  "buildingCost": 60,
-  "wonderCost": 185,
-  "techs": [
-    {
-      "name": "Woodworking",
-      "row": 1,
-      "cost": 35,
-      "prerequisites": ["Agriculture"]
-    }
-  ]
-}
+[
+  {
+    "columnNumber": 5,
+    "era": "Ancient era",
+    "techCost": 35,
+    "buildingCost": 60,
+    "wonderCost": 185,
+    "techs": [
+      {
+        "name": "Woodworking",
+        "row": 1,
+        "cost": 35,
+        "prerequisites": ["Agriculture"]
+      }
+    ]
+  }
+]
