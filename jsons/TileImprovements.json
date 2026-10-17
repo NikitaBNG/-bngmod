@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Remove Forest",
+        "uniques": [
+            "Gives [11.25] [Wood] when cleared <(modified by game speed)>"
+        ]
+    },
+    {
+        "name": "Sawmill",
+        "terrainsCanBeBuiltOn": ["Forest", "Jungle"],
+        "uniques": [
+            "Provides [0.3] [Wood] per turn <(modified by game speed)>"
+        ]
+    }
+]
