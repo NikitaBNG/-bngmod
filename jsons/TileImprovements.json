@@ -10,3 +10,11 @@
     ]
   }
 ]
+{
+  "name": "timber extraction",
+  "cost": 40,
+  "requiredTech": "Woodworking",
+  "uniques": [
+    "Obsolete with [Metal structures]"
+  ]
+}
