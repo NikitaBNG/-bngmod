@@ -1,6 +1,6 @@
 [
   {
-    "columnNumber": 0,
+    "columnNumber": 1,
     "era": "Ancient era",
     "techCost": 35,
     "buildingCost": 60,
@@ -8,7 +8,7 @@
     "techs": [
       {
         "name": "Woodworking",
-        "row": 3,
+        "row": 4,
         "cost": 35,
         "prerequisites": ["Agriculture"]
       }
