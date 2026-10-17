@@ -8,7 +8,7 @@
         "resourceRequired": "Wood x7",
         "uniques": [
             "[+50]% Strength <vs [Melee] units>",
-            "[+25]% Strength <with [Steel]>"
+            "[+25]% Strength <after discovering [Steel]>"
         ]
     }
 ]
