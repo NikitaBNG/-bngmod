@@ -5,8 +5,9 @@
       "action": "TRY_INJECT"
     },
     "terrainsCanBeBuiltOn": ["Forest"],
+    "production": 2,
     "uniques": [
-      "Provides [2] Production",
+      "Improvement",
       "Provides [1] [Wood]"
     ]
   },
@@ -14,8 +15,9 @@
     "name": "Timber extraction",
     "terrainsCanBeBuiltOn": ["Forest"],
     "techRequired": "Construction",
+    "production": 1,
     "uniques": [
-      "Provides [1] Production",
+      "Improvement",
       "Provides [1] [Wood]"
     ]
   }
