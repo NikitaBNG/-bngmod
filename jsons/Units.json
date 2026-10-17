@@ -8,7 +8,7 @@
 "requiredTech": "Bronze Working",
 "requiredResource": "Wood",
 "uniques": [
-"+50% Strength <vs [Melee] units>"
+"+50% Strength <vs Melee units>"
 ],
 "obsoleteTech": "Steel"
 }
