@@ -2,15 +2,15 @@
     {
         "name": "Remove Forest",
         "uniques": [
-            "Gives [11.25] [Wood] when cleared"
+            "Gives [34] [Wood] when cleared"
         ]
     },
     {
         "name": "Sawmill",
         "terrainsCanBeBuiltOn": ["Forest", "Jungle"],
         "uniques": [
-            "Provides [0.3] [Wood]"
+            "Provides [1] [Wood]"
         ]
     }
 ]
-
+.
