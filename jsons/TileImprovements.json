@@ -2,14 +2,14 @@
     {
         "name": "Remove Forest",
         "uniques": [
-            "Provides [11] [Wood] when cleared"
+            "Gives [11] [Wood] Production when cleared"
         ]
     },
     {
-        "name": "Sawmill",
-        "terrainsCanBeBuiltOn": ["Forest", "Jungle"],
+        "name": "Lumber mill",
         "uniques": [
             "Provides [1] [Wood]"
         ]
     }
 ]
+
