@@ -2,7 +2,7 @@
     {
         "name": "Remove Forest",
         "uniques": [
-            "Gives [11] [Wood] when cleared"
+            "Provides [11] [Wood] when cleared"
         ]
     },
     {
@@ -13,4 +13,3 @@
         ]
     }
 ]
-
