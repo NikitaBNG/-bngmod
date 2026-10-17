@@ -8,7 +8,7 @@
     "techs": [
       {
         "name": "Woodworking",
-        "row": 3.5,
+        "row": 3.75,
         "cost": 35,
         "prerequisites": ["Agriculture"]
       }
