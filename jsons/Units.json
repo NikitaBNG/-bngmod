@@ -7,9 +7,8 @@
         "cost": 60,
         "resourceRequired": "Wood x7",
         "uniques": [
-            "+50% Strength <vs Melee units>",
-            "+3 Strength <after discovering [Steel]>"
+            "[+50]% Strength <vs [Melee] units>",
+            "[+3] Strength <after researching [Steel]>"
         ]
     }
 ]
-
