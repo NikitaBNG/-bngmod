@@ -1,7 +1,7 @@
 [
   {
-  "name": "Timber extraction",
-  "cost": 40,
+  "name": "coming soon",
+  "cost": 0,
   "requiredTech": "Woodworking",
   "uniques": [
     "Obsolete with [Construction]"
