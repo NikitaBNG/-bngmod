@@ -7,7 +7,6 @@
     "terrainsCanBeBuiltOn": ["Forest"],
     "production": 2,
     "uniques": [
-      "Improvement",
       "Provides [1] [Wood]"
     ]
   },
@@ -17,7 +16,6 @@
     "techRequired": "Construction",
     "production": 1,
     "uniques": [
-      "Improvement",
       "Provides [1] [Wood]"
     ]
   }
