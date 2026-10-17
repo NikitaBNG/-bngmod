@@ -1,8 +1,9 @@
 [
   {
-  "name": "coming soon",
-  "cost": 0,
-  "requiredTech": "Woodworking",
+  "name": "bread factory",
+  "cost": 50,
+  "Food": 2
+  "requiredTech": "Calendar",
   "uniques": [
     "Obsolete with [Construction]"
   ]
