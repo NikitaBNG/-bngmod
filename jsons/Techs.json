@@ -1,8 +1,15 @@
 {
-  "name": "Woodworking",
-  "cost": 35,
+  "columnNumber": 5,
   "era": "Ancient era",
-  "column": 1,
-  "row": 5,
-  "prereqs": ["agriculture"]
+  "techCost": 35,
+  "buildingCost": 60,
+  "wonderCost": 185,
+  "techs": [
+    {
+      "name": "Woodworking",
+      "row": 1,
+      "cost": 35,
+      "prerequisites": ["Agriculture"]
+    }
+  ]
 }
