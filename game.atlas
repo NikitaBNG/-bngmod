@@ -1,0 +1,27 @@
+
+game.png
+size: 512, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+Portraits/ResourcePortraits/Wood
+  rotate: false
+  xy: 4, 4
+  size: 467, 449
+  orig: 467, 449
+  offset: 0, 0
+  index: -1
+ResourceIcons/Wood
+  rotate: false
+  xy: 4, 4
+  size: 467, 449
+  orig: 467, 449
+  offset: 0, 0
+  index: -1
+UnitIcons/Axeman
+  rotate: false
+  xy: 4, 461
+  size: 478, 541
+  orig: 478, 541
+  offset: 0, 0
+  index: -1
