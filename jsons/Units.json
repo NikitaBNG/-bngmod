@@ -4,8 +4,7 @@
         "unitType": "Melee",
         "movement": 2,
         "strength": 11,
-        "cost": 60,
-        "resourceRequired": "Wood x7",
+        "cost": 75,
         "uniques": [
             "[+50]% Strength <vs [Melee] units>",
             "[+25]% Strength <after discovering [Steel]>"
