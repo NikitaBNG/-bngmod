@@ -7,8 +7,9 @@
     "strength": 10,
     "cost": 75,
     "uniques": [
-      "[+50]% Strength <vs [Melee] units>",
-      "[+25]% Strength <after discovering [Steel]>"
+      "[+35]% Strength <vs [Melee] units>",
+      "[+20]% Strength <after discovering [Steel]>"
+      "[+10]% Strength <when attacking from a [Forest] tile>"
     ]
   }
 ]
