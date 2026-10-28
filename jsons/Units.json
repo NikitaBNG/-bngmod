@@ -1,13 +1,14 @@
 [
-    {
-        "name": "Axeman",
-        "unitType": "Melee",
-        "movement": 2,
-        "strength": 11,
-        "cost": 75,
-        "uniques": [
-            "[+50]% Strength <vs [Melee] units>",
-            "[+25]% Strength <after discovering [Steel]>"
-        ]
-    }
+  {
+    "name": "Axeman",
+    "unitType": "Melee",
+    "requiredTech": "Bronze Working",
+    "movement": 2,
+    "strength": 10,
+    "cost": 75,
+    "uniques": [
+      "[+50]% Strength <vs [Melee] units>",
+      "[+25]% Strength <after discovering [Steel]>"
+    ]
+  }
 ]
