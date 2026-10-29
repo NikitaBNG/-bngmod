@@ -2,6 +2,7 @@
   {
     "name": "Axeman",
     "unitType": "Melee",
+    "type": "Crushing",
     "requiredTech": "Bronze Working",
     "upgradesTo": "Iron Axeman",
     "obsoleteTech": "Steel",
@@ -9,14 +10,17 @@
     "strength": 9,
     "cost": 65,
     "uniques": [
+      "[Axeman] is [Crushing]",
       "[-15]% Strength <when defending>",
       "[+33]% Strength <when attacking> <vs [Melee] units>",
-      "[+25]% Strength <when fighting in [Forest] tiles>"
+      "[+25]% Strength <when fighting in [Forest] tiles>",
+      "[-33]% Strength <vs [Crushing] units>"
     ]
   },
   {
     "name": "Iron Axeman",
     "unitType": "Melee",
+    "type": "Crushing",
     "requiredTech": "Iron Working",
     "obsoleteTech": "Steel",
     "requiredResource": "Iron",
@@ -25,9 +29,11 @@
     "cost": 85,
     "upgradesTo": "Longswordsman",
     "uniques": [
+      "[Iron Axeman] is [Crushing]",
       "[-15]% Strength <when defending>",
       "[+33]% Strength <when attacking> <vs [Melee] units>",
-      "[+25]% Strength <when fighting in [Forest] tiles>"
+      "[+25]% Strength <when fighting in [Forest] tiles>",
+      "[-33]% Strength <vs [Crushing] units>"
     ]
   }
 ]
