@@ -3,13 +3,30 @@
     "name": "Axeman",
     "unitType": "Melee",
     "requiredTech": "Bronze Working",
+    "upgradesTo": "Iron Axeman",
+    "obsoleteTech": "Steel",
     "movement": 2,
     "strength": 10,
-    "cost": 90,
+    "cost": 56,
     "uniques": [
-      "[+35]% Strength <vs [Melee] units>",
-      "[+20]% Strength <after discovering [Steel]>",
-      "[+10]% Strength <when fighting in [Forest] tiles>"
+      "[+33]% Strength <vs [Melee] units>",
+      "[+9]% Strength <when fighting in [Forest] tiles>"
+    ]
+  },
+  {
+    "name": "Iron Axeman",
+    "unitType": "Melee",
+    "requiredTech": "Iron Working",
+    "obsoleteTech": "Steel",
+    "requiredResource": "Iron",
+    "movement": 2,
+    "strength": 12,
+    "cost": 85,
+    "upgradesTo": "Longswordsman",
+    "uniques": [
+      "[+40]% Strength <vs [Melee] units>",
+      "[+10]% Strength <vs [Melee] units> <after discovering [Steel]>",
+      "[+16]% Strength <when fighting in [Forest] tiles>"
     ]
   }
 ]
