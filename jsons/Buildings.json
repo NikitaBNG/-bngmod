@@ -1,12 +1,10 @@
-[
-  {
-    "name": "Bakery",
-    "cost": 75,
-    "requiredTech": "Calendar",
-    "maintenance": 0,
-    "uniques": [
-      "[+1 Food]",
-      "[+1 Food] from every [Wheat] in the city"
-    ]
-  }
-]
+{
+  "name": "Bakery",
+  "cost": 75,
+  "requiredTech": "Calendar",
+  "maintenance": 0,
+  "uniques": [
+    "[+1 Food]",
+    "[+2 Food] from [Wheat] tiles [in this city]"
+  ]
+}
