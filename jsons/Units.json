@@ -6,11 +6,12 @@
     "upgradesTo": "Iron Axeman",
     "obsoleteTech": "Steel",
     "movement": 2,
-    "strength": 10,
-    "cost": 56,
+    "strength": 9,
+    "cost": 65,
     "uniques": [
-      "[+33]% Strength <vs [Melee] units>",
-      "[+9]% Strength <when fighting in [Forest] tiles>"
+      "[-15]% Strength <when defending>",
+      "[+33]% Strength <when attacking> <vs [Melee] units>",
+      "[+25]% Strength <when fighting in [Forest] tiles>"
     ]
   },
   {
@@ -24,8 +25,9 @@
     "cost": 85,
     "upgradesTo": "Longswordsman",
     "uniques": [
-      "[+40]% Strength <vs [Melee] units>",
-      "[+16]% Strength <when fighting in [Forest] tiles>"
+      "[-15]% Strength <when defending>",
+      "[+33]% Strength <when attacking> <vs [Melee] units>",
+      "[+25]% Strength <when fighting in [Forest] tiles>"
     ]
   }
 ]
