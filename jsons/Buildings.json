@@ -1,7 +1,7 @@
 [
   {
     "name": "bread factory",
-    "cost": 50,
+    "cost": 75,
     "requiredTech": "Calendar",
     "maintenance": 1,
     "uniques": [
