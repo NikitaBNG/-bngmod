@@ -25,7 +25,6 @@
     "upgradesTo": "Longswordsman",
     "uniques": [
       "[+40]% Strength <vs [Melee] units>",
-      "[+10]% Strength <vs [Melee] units> <after discovering [Steel]>",
       "[+16]% Strength <when fighting in [Forest] tiles>"
     ]
   }
