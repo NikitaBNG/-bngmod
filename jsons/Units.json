@@ -5,10 +5,10 @@
     "requiredTech": "Bronze Working",
     "movement": 2,
     "strength": 10,
-    "cost": 75,
+    "cost": 90,
     "uniques": [
       "[+35]% Strength <vs [Melee] units>",
-      "[+20]% Strength <after discovering [Steel]>"
+      "[+20]% Strength <after discovering [Steel]>",
       "[+10]% Strength <when fighting in [Forest] tiles>"
     ]
   }
