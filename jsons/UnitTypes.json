@@ -1,7 +1,7 @@
 [
   {
-    "name": "Crushing"
-    "baseCategory": "Melee"
+    "name": "Crushing",
+    "baseCategory": "Melee",
+    "movementType": "Land"
   }
 ]
-
