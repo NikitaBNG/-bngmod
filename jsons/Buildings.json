@@ -3,6 +3,7 @@
     "name": "bread factory",
     "cost": 50,
     "requiredTech": "Calendar",
+    "maintenance": 1,
     "uniques": [
       "[+2 Food]",
     ]
