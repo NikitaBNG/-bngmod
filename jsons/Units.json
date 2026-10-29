@@ -1,7 +1,7 @@
 [
   {
     "name": "Axeman",
-    "type": "Crushing",
+    "unitType": "Crushing",
     "requiredTech": "Bronze Working",
     "upgradesTo": "Iron Axeman",
     "obsoleteTech": "Steel",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Iron Axeman",
-    "type": "Crushing",
+    "unitType": "Crushing",
     "requiredTech": "Iron Working",
     "obsoleteTech": "Steel",
     "requiredResource": "Iron",
