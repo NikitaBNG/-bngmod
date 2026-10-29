@@ -1,4 +1,5 @@
-{
+[
+  {
   "name": "Bakery",
   "cost": 75,
   "requiredTech": "Calendar",
@@ -7,4 +8,5 @@
     "[+1 Food]",
     "[+2 Food] from [Wheat] tiles [in this city]"
   ]
-}
+  }
+]
