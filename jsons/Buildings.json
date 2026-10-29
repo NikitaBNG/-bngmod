@@ -1,11 +1,12 @@
 [
   {
-    "name": "bread factory",
+    "name": "Bakery",
     "cost": 75,
     "requiredTech": "Calendar",
-    "maintenance": 1,
+    "maintenance": 0,
     "uniques": [
-      "[+2 Food]",
+      "[+1 Food]",
+  "[+2 Food] from [Wheat] tiles"
     ]
   }
 ]
