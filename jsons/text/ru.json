@@ -1,7 +1,10 @@
 {
- "Axeman": "Топорщик"
- "Iron Axeman": "Железный топорщик"
- "Spear Cavalry": "Всадник с копьём",
- "Bakery": "Пекарня"
- "Crushing": "Рубящий"
+  "Axeman": "Топорщик",
+  "Iron Axeman": "Железный топорщик",
+  "Spear Cavalry": "Всадник с копьём",
+  "Spear Cavalry unit": "Всадник с копьём",
+  "Bakery": "Пекарня",
+  "Crushing": "Рубящий",
+  "Crushing units": "Рубящие юниты",
+  "Crushing Unit": "Рубящий юнит"
 }
