@@ -39,10 +39,12 @@
   "requiredTech": "Horseback Riding"
   "movement": 5
   "strength": 13
-  "cost": 75
+  "cost": 85
   "uniques": [
     "Can move after attacking",
-    "[-50]% Strength <when attacking> <vs cities>"
+    "[-50]% Strength <when attacking> <vs cities>",
+    "No defensive terrain bonus",
+    "[-10]% Strength <vs [Crushing] units>"
   ]
  }
 ]
