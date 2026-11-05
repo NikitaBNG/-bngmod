@@ -36,7 +36,7 @@
   "name": "Spear Cavalry"
   "unitType": "Mounted"
   "requiredTech": "Horseback Riding"
-  "requiredResource": "House",
+  "requiredResource": "Horses",
   "movement": 5
   "strength": 13
   "cost": 75
