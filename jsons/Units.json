@@ -15,35 +15,34 @@
       "[-33]% Strength <vs [Crushing] units>"
     ]
   },
-  {
-    "name": "Iron Axeman",
-    "unitType": "Crushing",
-    "requiredTech": "Iron Working",
-    "obsoleteTech": "Steel",
-    "requiredResource": "Iron",
-    "movement": 2,
-    "strength": 12,
-    "cost": 85,
-    "upgradesTo": "Longswordsman",
-    "uniques": [
-      "[-15]% Strength <when defending>",
-      "[+33]% Strength <when attacking> <vs [Melee] units>",
-      "[+25]% Strength <when fighting in [Forest] tiles>",
-      "[-33]% Strength <vs [Crushing] units>"
+   {
+     "name": "Iron Axeman",
+     "unitType": "Crushing",
+     "requiredTech": "Iron Working",
+     "obsoleteTech": "Steel",
+     "requiredResource": "Iron",
+     "movement": 2,
+     "strength": 12,
+     "cost": 85,
+     "upgradesTo": "Longswordsman",
+     "uniques": [
+       "[-15]% Strength <when defending>",
+       "[+33]% Strength <when attacking> <vs [Melee] units>",
+       "[+25]% Strength <when fighting in [Forest] tiles>",
+       "[-33]% Strength <vs [Crushing] units>"
     ]
   },
-  {
+ {
   "name": "Spear Cavalry"
   "unitType": "Mounted"
+  "requiredResource": "Horses",
   "requiredTech": "Horseback Riding"
-  "movement": 4
+  "movement": 5
   "strength": 13
   "cost": 75
   "uniques": [
-    "Can move after attacking"
+    "Can move after attacking",
+    "[-2] Movement <after attacking>"
   ]
-  "promotions": [
-    "Spear Cavalry Movement Penalty"
-  ]
-  }
+ }
 ]
