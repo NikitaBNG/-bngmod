@@ -1,4 +1,9 @@
-"Axeman": "Топорщик"
-"Iron Axeman": "Железный топорщик"
-"Spear Cavalry": "Всадник с копьём",
-"Bakery": "пекарня"
+[
+  {
+ "Axeman": "Топорщик"
+ "Iron Axeman": "Железный топорщик"
+ "Spear Cavalry": "Всадник с копьём",
+ "Bakery": "Пекарня"
+ "Crushing": "Рубящий"
+  }
+]
