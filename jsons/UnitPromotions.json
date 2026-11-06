@@ -7,7 +7,7 @@
      "[0]% weight to this choice for AI decisions"
    ],
     "unitTypes": ["Chopping"],
-    "row": 0
+    "row": 1
     "column":0
   },
   {
@@ -17,7 +17,7 @@
       "+[100]% movement in [Jungle] tiles"
     ],
     "unitTypes": ["Chopping"],
-    "row": 7,
+    "row": 2,
     "column": 0
   }
 ]
