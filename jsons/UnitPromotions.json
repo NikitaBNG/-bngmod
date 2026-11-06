@@ -13,8 +13,8 @@
   {
     "name": "Forest trails",
     "uniques":[
-      "+[100]% movement in [Forest] tiles",
-      "+[100]% movement in [Jungle] tiles"
+      "Double movement in [Forest]",
+      "Double movement in [Jungle]"
     ],
     "unitTypes": ["Chopping"],
     "row": 2,
