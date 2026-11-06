@@ -11,10 +11,9 @@
     "column":0
   },
   {
-    "name": "Forest trails",
+    "name": "Split shields",
     "uniques":[
-      "Double movement in [Forest]",
-      "Double movement in [Jungle]"
+      "[+25]% Strength <when attacking> <vs [Armored] units>",
     ],
     "unitTypes": ["Chopping"],
     "row": 2,
