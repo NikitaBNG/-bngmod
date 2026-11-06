@@ -1,6 +1,6 @@
 [
   {
-  "name": "Unexpected attacks",
+  "name": "Forest ambushed",
    "uniques": [
      "[+20]% Strength <when fighting in [Forest] tiles>",
      "[+20]% Strength <when fighting in [Jungle] tiles>",
@@ -11,7 +11,7 @@
     "column":0
   },
   {
-    "name": "Navigation in the forest",
+    "name": "Forest trails",
     "uniques":[
       "Double movement in [Forest] tiles",
       "Double movement in [Jungle] tiles"
