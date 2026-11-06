@@ -1,11 +1,23 @@
 [
   {
-  "name": "soon",
+  "name": "Unexpected attacks",
    "uniques": [
-     "[+20]% Strength <when fighting in [Forest] tiles>"
+     "[+20]% Strength <when fighting in [Forest] tiles>",
+     "[+20]% Strength <when fighting in [Jungle] tiles>",
+     "[0]% weight to this choice for AI decisions"
    ],
     "unitTypes": ["Chopping"],
-    "rov": 0
+    "row": 0
     "column":0
+  },
+  {
+    "name": "Navigation in the forest",
+    "uniques":[
+      "Double movement in [Forest] tiles",
+      "Double movement in [Jungle] tiles"
+    ],
+    "unitTypes": ["Chopping"],
+    "row": 2,
+    "column": 0
   }
 ]
