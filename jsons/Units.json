@@ -1,7 +1,7 @@
 [
   {
     "name": "Axeman",
-    "unitType": "Crushing",
+    "unitType": "Chopping",
     "requiredTech": "Bronze Working",
     "upgradesTo": "Iron Axeman",
     "obsoleteTech": "Steel",
@@ -12,12 +12,12 @@
       "[-15]% Strength <when defending>",
       "[+33]% Strength <when attacking> <vs [Melee] units>",
       "[+25]% Strength <when fighting in [Forest] tiles>",
-      "[-33]% Strength <vs [Crushing] units>"
+      "[-33]% Strength <vs [Chopping] units>"
     ]
   },
    {
      "name": "Iron Axeman",
-     "unitType": "Crushing",
+     "unitType": "Chopping",
      "requiredTech": "Iron Working",
      "obsoleteTech": "Steel",
      "requiredResource": "Iron",
@@ -29,7 +29,7 @@
        "[-15]% Strength <when defending>",
        "[+33]% Strength <when attacking> <vs [Melee] units>",
        "[+25]% Strength <when fighting in [Forest] tiles>",
-       "[-33]% Strength <vs [Crushing] units>"
+       "[-33]% Strength <vs [Chopping] units>"
     ]
   },
  {
@@ -44,7 +44,7 @@
     "Can move after attacking",
     "[-50]% Strength <when attacking> <vs cities>",
     "No defensive terrain bonus",
-    "[-10]% Strength <vs [Crushing] units>"
+    "[-10]% Strength <vs [Chopping] units>"
   ]
  }
 ]
