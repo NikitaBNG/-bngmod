@@ -13,8 +13,7 @@
       "[+33]% Strength <when attacking> <vs [Melee] units>",
       "[+25]% Strength <when fighting in [Forest] tiles>",
       "[-33]% Strength <vs [Chopping] units>",
-      "Treats [Forest] as open terrain",
-     "Treats [Jungle] as open terrain"
+      "Woodsman"
     ]
   },
    {
@@ -32,9 +31,7 @@
        "[+33]% Strength <when attacking> <vs [Melee] units>",
        "[+25]% Strength <when fighting in [Forest] tiles>",
        "[-33]% Strength <vs [Chopping] units>",
-        "Treats [Forest] as open terrain",
-        "Treats [Jungle] as open terrain"
-    ]
+        "Woodsman"
   },
  {
   "name": "Spear Cavalry"
