@@ -32,7 +32,8 @@
        "[+25]% Strength <when fighting in [Forest] tiles>",
        "[-33]% Strength <vs [Chopping] units>",
         "Woodsman"
-  },
+     ]
+       }
  {
   "name": "Spear Cavalry"
   "unitType": "Mounted"
