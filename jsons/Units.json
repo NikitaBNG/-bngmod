@@ -35,8 +35,8 @@
      ]
        }
  {
-  "name": "Spear Cavalry"
-  "unitType": "Mounted"
+  "name": "Spear Cavalry",
+  "unitType": "Mounted",
   "requiredResource": "Horses",
   "requiredTech": "Horseback Riding"
   "movement": 5
@@ -49,4 +49,17 @@
     "[-10]% Strength <vs [Chopping] units>"
   ]
  }
+  {
+    "name": "Mounted scout",
+    "unitType": "Scout"
+    "cost": 40,
+    "sight": 3
+    "strength": 3,
+    "movement": 4,
+    "requiredTech": "Horseback Riding",
+    "uniques": [
+      "Ignores terrain cost",
+      "[+1] Sight"
+    ]
+  }
 ]
