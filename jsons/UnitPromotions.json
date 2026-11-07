@@ -18,5 +18,63 @@
     "unitTypes": ["Chopping"],
     "row": 2,
     "column": 0
+  },
+  // scouts
+  {
+    "name": "Medic",
+    "uniques": ["[+5] HP when healing <for [Adjacent] units>"],
+    "unitTypes": ["Scout"]
+  },
+  {
+    "name": "Medic II",
+    "prerequisites": ["Medic"],
+    "uniques": [
+      "[+5] HP when healing <for [Adjacent] units>",
+      "[+5] HP when healing <when healing outside of your territory>"
+    ],
+    "unitTypes": ["Scout"]
+  },
+  {
+    "name": "Scouting I",
+    "uniques": ["[+1] Sight"],
+    "unitTypes": ["Scout",]
+  },
+  {
+    "name": "Scouting II",
+    "prerequisites": ["Scouting I"],
+    "uniques": ["[+1] Sight"],
+    "unitTypes": ["Scout"]
+  },
+  {
+    "name": "Scouting III",
+    "prerequisites": ["Scouting II"],
+    "uniques": ["[+1] Movement"],
+    "unitTypes": ["Scout"]
+  },
+  {
+    "name": "Survivalism I",
+    "uniques": [
+      "[+25]% Strength <when defending>",
+      "[+5] HP when healing <when healing outside of your territory>"
+    ],
+    "unitTypes": ["Scout"]
+  },
+  {
+    "name": "Survivalism II",
+    "prerequisites": ["Survivalism I"],
+    "uniques": [
+      "[+25]% Strength <when defending>",
+      "[+5] HP when healing <when healing outside of your territory>"
+    ],
+    "unitTypes": ["Scout"]
+  },
+  {
+    "name": "Survivalism III",
+    "prerequisites": ["Survivalism II"],
+    "uniques": [
+      "Heals [1] damage each turn even after acting",
+      "[75]% chance to withdraw before melee attack"
+    ],
+    "unitTypes": ["Scout"]
   }
 ]
