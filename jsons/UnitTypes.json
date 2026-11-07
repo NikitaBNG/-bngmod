@@ -4,4 +4,9 @@
     "baseCategory": "Melee",
     "movementType": "Land"
   }
+  {
+  "name": "Scout",
+    "baseCategory": "Civilian",
+    "movementType": "Land"
+  }
 ]
